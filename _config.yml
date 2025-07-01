@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: PiGround
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A compilation of different projects using the Raspberry Pi. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/504403265_17906273007174102_6933963457257447616_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2QFIMBvO4btSTLXfGaCEiqA5RWPNVgqAZwmjghHtTSXgHawN_M3yhcnAEUSQXBgxHL0&_nc_ohc=wleG06kha5EQ7kNvwFqUlr5&_nc_gid=218y55svbwfPliBAlyyEoA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfNu8_q_GRN03z__RfPGx9Uw1dGIh32euJw1LgPaxeqQKA&oe=686A50CC&_nc_sid=7a9f4b
 
 #
 # Flags below are optional
